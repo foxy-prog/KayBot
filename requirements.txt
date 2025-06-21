@@ -1,0 +1,6 @@
+gradio
+openai-whisper
+pytesseract
+python-dotenv
+Pillow
+requests
