@@ -5,3 +5,6 @@ pytesseract
 python-dotenv
 Pillow
 requests
+Flask
+transformers
+torch
