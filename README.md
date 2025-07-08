@@ -19,28 +19,6 @@ This is an AI-powered educational assistant built using Gradio, Whisper, OCR, an
 - OpenRouter API key
 - Serper.dev API key for Google Search
 
-## 🚀 How to Run
-
-1. Clone the repo or extract the ZIP.
-2. Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-3. Add your `.env` file with:
-
-```
-OPENROUTER_API_KEY=your_key_here
-SERPER_API_KEY=your_key_here
-```
-
-4. Run the app:
-
-```
-python app.py
-```
-
 ## 🧪 Deployment
 
 - Hugging Face Space
