@@ -1,9 +1,2 @@
-gradio
-openai-whisper
-pytesseract
-python-dotenv
-Pillow
-requests
-Flask
-transformers
-torch
+gradio==3.53.3
+requests==2.31.0
