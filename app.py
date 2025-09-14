@@ -20,3 +20,4 @@ def check_local_db(question: str):
     return qa_data.get(question.strip())
 
 # Helper: ask OpenR
+demo.launch(server_name="0.0.0.0", server_port=5000)
